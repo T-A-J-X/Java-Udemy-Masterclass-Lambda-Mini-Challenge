@@ -26,8 +26,11 @@ In this challenge, Tim assigned a series of tasks for us to solve to demonstrate
     }
 
    //Mini Challenge 3: Write the code to execute the Mini Challenge 2's lambda expression's functional method, using 1234567890 as the argument to that method and print the result out
+   
    //Mini Challenge 4: write another method called everySecondCharacter which should accept a Function or Unary Operator as a parameter as well as a second parameter that lets us pass 
      "1234567890"
+   
    //Mini Challenge 5: Write a lambda expression that is declared with the Supplier Interface - it should return "I love Java", and assign it to a variable iLoveJava
+   
    //Mini Challenge 6: Use the Supplier to assign a String "I love Lambda to a variable called supplierResult
    
