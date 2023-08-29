@@ -1,5 +1,5 @@
 # Java-Udemy-Masterclass-Lambda-Mini-Challenge
-In this challenge, Tim assigned a series of tasks for us to solve to demonstrate our understanding of Lambda Expressions with Functional Interfaces and some of their syntax differences.
+In this challenge, Tim assigned a series of mini challenges for us to solve to demonstrate our understanding of Lambda Expressions with Functional Interfaces and some of their syntax differences.
 
 //Mini challenge 1: Write the anonymous class below as a Lambda expression
 
